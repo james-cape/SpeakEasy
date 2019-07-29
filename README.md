@@ -14,6 +14,9 @@ Users can hear Github commit messages or branch names involved with merges, as w
 * "Shoutouts from [username]" --> Returns shoutouts (from Slack) from that person
 * "Newest shoutout" --> Returns newest shoutout
 
+
+![Speakeasy flow diagram](https://arrogant-loon-34609.herokuapp.com/assets/welcome/flow.png)
+
 ## REQUIREMENTS
 Ruby version
 * [Ruby 2.4.1](https://www.ruby-lang.org/en/downloads/)
@@ -58,5 +61,3 @@ rails db:{drop,create,migrate,seed}
 **Sinatra Alexa Interpretation app
 * Heroku: https://infinite-hollows-79232.herokuapp.com/
 * Github: https://github.com/davehardy632/SpeakEasy-sinatra
-
-![Speakeasy flow diagram](https://arrogant-loon-34609.herokuapp.com/assets/welcome/flow.png)
